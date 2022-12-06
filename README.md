@@ -7,7 +7,7 @@
 This repository was created with the aims to find the 'best' neighborhood in Pittsburgh based on data from the Western Pennsylvania Regional Data Center. Our metric to decide the 'best' was jaywalking, or in other words we wanted to find the easiest place to jaywalk. Using traffic data alongside urban planning features, we gave each neighborhood points to gauge how easily one could cross a random street.
 
 
-### [City Traffic Signs](https://data.wprdc.org/dataset/city-traffic-signs)### 
+### [City Traffic Signs](https://data.wprdc.org/dataset/city-traffic-signs)
 "City of Pittsburgh Traffic signs such as; Stop, Stop Ahead, and Yield Signs, and Wayfinder signs. 
 
 This is an on-going inventory of Signs, as the Department of Public Works is able to update its inventory new sign types will be added.
@@ -30,7 +30,7 @@ Tubes are deployed by both SPC and BikePGH and used to count cyclists. SPC may a
 
 NOTE: The data in this dataset has not updated since 2021 because of a broken data feed. We're working to fix it."-WPRDC
 
-### [City of Pittsburgh Speed Humps] (https://data.wprdc.org/dataset/city-of-pittsburgh-speed-humps)
+### [City of Pittsburgh Speed Humps](https://data.wprdc.org/dataset/city-of-pittsburgh-speed-humps)
 "Speed humps installed by the City of Pittsburgh to slow down traffic
 
 NOTE: The data in this dataset has not updated since 2021 because of a broken data feed. We're working to fix it."-WPRDC
